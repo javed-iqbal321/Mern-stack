@@ -7,3 +7,4 @@ console.log( NaN + 1 );
 console.log( 3 * NaN );
 console.log( "not a number" / 2 - 1 );
 console.log(9007199254740991 + 1);
+console.log(9007199254740991 + 2);
