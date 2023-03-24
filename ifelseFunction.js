@@ -5,3 +5,4 @@ if (x==y){
 }
 else
 console.log ("both number not equal");
+
